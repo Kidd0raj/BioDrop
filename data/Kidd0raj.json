@@ -1,0 +1,17 @@
+{
+    "name": "Ishaq Rajab",
+    "bio": "I am a passionate and dedicated junior developer with a strong foundation in programming languages such as Python, JavaScript. I recently graduated with a degree in Computer Science and have gained practical experience through internships and personal projects. My skills include front-end development using HTML, CSS, and React, as well as back-end development with Node.js and Django. I am eager to continue learning and growing as a developer, and I am excited about the prospect of contributing to innovative and impactful projects.",
+    "links": [
+        {
+            "name": "Follow on Twitter",
+            "url": "https://twitter.com/kiddo_rajy",
+            "icon": "FaTwitter"
+        },
+        {
+            "name": "Follow on LinkedIn",
+            "url": "https://www.linkedln.com/in/ishaq-rajab",
+            "icon": "fab fa-Linkedln"
+        }
+    ]
+}
+data:Kidd0raj
